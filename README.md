@@ -1,2 +1,2 @@
 # Cramer-s-rules-input-.txt-file-in-C-
-Cramer's Rule for 3x3
+Cramer's Rule elimination for matrix 3x3
